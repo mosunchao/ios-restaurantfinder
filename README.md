@@ -1,2 +1,2 @@
-DemoRepository
+Google map restaurant finder
 ==============
